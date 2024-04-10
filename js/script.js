@@ -21,3 +21,5 @@ function ativarProduto(parametro) {
   };
 };
 parametros.forEach(ativarProduto);
+
+// Perguntas Frequentes

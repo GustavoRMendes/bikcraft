@@ -32,6 +32,7 @@
   align-items: center;
   justify-items: start;
   gap: 8px 12px;
+  margin-bottom: 20px;
 }
 
 .bicicleta-comprar a {
@@ -44,7 +45,6 @@
   background-color: var(--cor-12);
   padding: 4px 8px;
   border-radius: 4px;
-  margin-bottom: 40px;
   gap: 8px;
 }
 

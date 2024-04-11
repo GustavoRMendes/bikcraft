@@ -23,7 +23,7 @@
   gap: 8px;
   cursor: pointer;
   border: none;
-  background-color: none;
+  background: var(--cor-1);
   width: 100%;
   text-align: left;
 }
